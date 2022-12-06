@@ -1,0 +1,22 @@
+button:hover{
+    
+    cursor: pointer;
+}
+h1{
+    color: blueviolet;
+}
+.ModoCostco{
+    height: 2000px;
+    width: 100%;
+    display: none;
+    background-color: red;
+}
+#btn_si{
+    background-color: cadetblue;
+    border: solid cadetblue ;
+    border-radius: 2px ;
+    padding: 32px;
+    font-size: xx-large;
+    color: azure;
+    align-items: center;
+}
